@@ -1,0 +1,2 @@
+# IOT-Project-BS-Ai-2k26-07
+I am Abdullah Shahzad a AI Part 1 student with Roll No. 2k26/Ai/07, currently studying the Internet of Things (IoT) subject in the Department of Artificial Intelligence at the University of Sindh. My teacher, Miss Safia Shaikh, assigned me a basic IoT task, which I have completed and uploaded to this repository. 
